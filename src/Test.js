@@ -6,7 +6,7 @@ const FormItem = Form.Item;
 class Test extends React.Component {
   render() {
     return (
-      <Button>o3k555343</Button>
+      <Button>Hello World!!!</Button>
     );
   }
 }
